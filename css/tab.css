@@ -1,0 +1,35 @@
+body {
+    direction: rtl;
+    font-size: 14px;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+.tab {
+    background-color: rgb(216, 216, 216);
+    height: 400px;
+    width: 500px;
+  
+    
+}
+.tab-botton1,.tab-botton2,.tab-botton3{
+    position: relative;
+    top:-20px;
+    width: 60px;
+    margin-left: 5px;
+    background-color: rgb(216, 216, 216);
+    
+
+
+
+
+
+
+
+
+
+
+}
+
